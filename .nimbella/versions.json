@@ -1,0 +1,12 @@
+[
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "team0251-cugsrqjxhhn",
+    "packageVersions": {},
+    "actionVersions": {},
+    "webHashes": {
+      "web\\index.html": "2aacff112616ac55954527b95651173c5c44e651e27ce0697afb5552a8ce9602",
+      "web\\wait.html": "490bfadbb48648e8af68a818d1b7a600bf21ffb038d0b9c750a8157a376539c6"
+    }
+  }
+]
